@@ -29,5 +29,12 @@ errores `404 Not Found` hasta la más temida página `500 Server Error`.
 Crearemos diferentes páginas básicas:
 
 1. La página de inicio, home o landing page
-2. La página de error 404
-3. La página próximamente o coming soon
+2. ![image](https://user-images.githubusercontent.com/50523913/114299956-537b8600-9abe-11eb-8253-a7a46e49e0e8.png)
+3. ![image](https://user-images.githubusercontent.com/50523913/114300047-af460f00-9abe-11eb-8149-cdcc1f1327e5.png)
+
+3. La página de error 404
+4. ![image](https://user-images.githubusercontent.com/50523913/114300038-8e7db980-9abe-11eb-8735-34d960532de9.png)
+
+5. La página próximamente o coming soon
+6. ![image](https://user-images.githubusercontent.com/50523913/114300006-7443db80-9abe-11eb-8104-cd76a40e4824.png)
+

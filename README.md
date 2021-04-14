@@ -1,6 +1,6 @@
 # The Frontender
 
-**The Frontender** es el nuevo juego creado por *Roberto Martinez* gracias al curso realizado en Keepcoding *Desarrollo Web con HTML5 y CSS* en el que una
+**The Frontender** es el nuevo juego creado por *Momo Gaming* gracias al curso realizado en Keepcoding *Desarrollo Web con HTML5 y CSS* en el que una
 simple web developer debe profundizar en las cloacas de internet para
 crear **The Ultimate Website**, el sitio web definitivo que revolucionará
 el mundo de la creación web.
